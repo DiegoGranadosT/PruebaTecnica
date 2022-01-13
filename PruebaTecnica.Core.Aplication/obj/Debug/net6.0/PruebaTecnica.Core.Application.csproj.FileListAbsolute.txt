@@ -1,0 +1,6 @@
+C:\Users\diego\source\repos\PruebaTecnica\PruebaTecnica.Core.Aplication\obj\Debug\net6.0\PruebaTecnica.Core.Application.GlobalUsings.g.cs
+C:\Users\diego\source\repos\PruebaTecnica\PruebaTecnica.Core.Aplication\obj\Debug\net6.0\PruebaTecnica.Core.Application.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\PruebaTecnica\PruebaTecnica.Core.Aplication\obj\Debug\net6.0\PruebaTecnica.Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\PruebaTecnica\PruebaTecnica.Core.Aplication\obj\Debug\net6.0\PruebaTecnica.Core.Application.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\PruebaTecnica\PruebaTecnica.Core.Aplication\obj\Debug\net6.0\PruebaTecnica.Core.Application.AssemblyInfo.cs
+C:\Users\diego\source\repos\PruebaTecnica\PruebaTecnica.Core.Aplication\obj\Debug\net6.0\PruebaTecnica.Core.Application.csproj.CoreCompileInputs.cache
