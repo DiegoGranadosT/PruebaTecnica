@@ -1,4 +1,4 @@
-﻿using EducaJunto.Profile.Core.Application.Contracts.Persistence.Base;
+﻿using PruebaTecnica.Core.Application.Contracts.Persistence.Base;
 using PruebaTecnica.Core.Domain.Base;
 
 namespace PruebaTecnica.Core.Application.Contracts.Persistence.Base

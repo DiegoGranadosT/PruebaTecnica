@@ -1,6 +1,12 @@
+using PruebaTecnica.Core.Application;
+using PruebaTecnica.Infraestructure.Persistence;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddApplicationServices(builder.Environment.ContentRootPath);
+
+builder.Services.AddPersistenceServices(builder.Configuration);
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

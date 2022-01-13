@@ -8,6 +8,7 @@ using PruebaTecnica.Infraestructure.Persistence.Repositories;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using PruebaTecnica.Infraestructure.Persistence;
 
 namespace PruebaTecnica.Infraestructure.Persistence
 {
@@ -16,7 +17,7 @@ namespace PruebaTecnica.Infraestructure.Persistence
         public static IServiceCollection AddPersistenceServices(this IServiceCollection services,
             IConfiguration configuration)
         {
-            services.AddDbContext<DbContext>(options =>
+            services.AddDbContext<PruebaDbContext>(options =>
             {
                 options.UseNpgsql(configuration.GetConnectionString("DbConnection"));
                 options.EnableSensitiveDataLogging();

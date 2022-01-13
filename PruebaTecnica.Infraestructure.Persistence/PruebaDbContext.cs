@@ -1,23 +1,24 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
+using PruebaTecnica.Core.Domain.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EducaJunto.Profile.Infraestructure.Persistence
+namespace PruebaTecnica.Infraestructure.Persistence
 {
-    public class DbContext : Microsoft.EntityFrameworkCore.DbContext
+    public class PruebaDbContext : DbContext
     {
-        //public DbSet<T> T { get; set; }
+        public DbSet<User> User { get; set; }
 
-        public DbContext()
+        public PruebaDbContext()
         {
 
         }
 
-        public DbContext(DbContextOptions<DbContext> options) : base(options)
+        public PruebaDbContext(DbContextOptions<PruebaDbContext> options) : base(options)
         {
 
         }
