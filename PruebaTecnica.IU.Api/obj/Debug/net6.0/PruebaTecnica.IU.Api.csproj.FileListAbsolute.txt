@@ -8,6 +8,7 @@ C:\Users\diego\source\repos\PruebaTecnica\PruebaTecnica.IU.Api\bin\Debug\net6.0\
 C:\Users\diego\source\repos\PruebaTecnica\PruebaTecnica.IU.Api\bin\Debug\net6.0\PruebaTecnica.IU.Api.pdb
 C:\Users\diego\source\repos\PruebaTecnica\PruebaTecnica.IU.Api\bin\Debug\net6.0\AutoMapper.dll
 C:\Users\diego\source\repos\PruebaTecnica\PruebaTecnica.IU.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\diego\source\repos\PruebaTecnica\PruebaTecnica.IU.Api\bin\Debug\net6.0\FluentValidation.dll
 C:\Users\diego\source\repos\PruebaTecnica\PruebaTecnica.IU.Api\bin\Debug\net6.0\Humanizer.dll
 C:\Users\diego\source\repos\PruebaTecnica\PruebaTecnica.IU.Api\bin\Debug\net6.0\MediatR.dll
 C:\Users\diego\source\repos\PruebaTecnica\PruebaTecnica.IU.Api\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll

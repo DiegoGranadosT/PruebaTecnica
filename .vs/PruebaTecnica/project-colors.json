@@ -20,7 +20,22 @@
       "ProjectGuid": "20a9c952-4b7a-4eb3-b4b0-040f1ae2f178",
       "DisplayName": "PruebaTecnica.Core.Domain",
       "ColorIndex": 3
+    },
+    "4ece6907-8089-425f-a9e5-0e4a8feb019f": {
+      "ProjectGuid": "4ece6907-8089-425f-a9e5-0e4a8feb019f",
+      "DisplayName": "PruebaTecnica.Infraestructure.Persistence",
+      "ColorIndex": 4
+    },
+    "a9d53acd-8e4f-417a-9068-a36bf41f0d18": {
+      "ProjectGuid": "a9d53acd-8e4f-417a-9068-a36bf41f0d18",
+      "DisplayName": "PruebaTecnica.IU.Api",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 6
 }
