@@ -59,7 +59,7 @@ namespace PruebaTecnica.Core.Application.Features.Auth.Command
 
             var key = new SymmetricSecurityKey(System.Text.Encoding.UTF8.GetBytes(secret));
 
-            var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256Signature);
+            var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha512Signature);
 
             var expired = DateTime.UtcNow.AddHours(1);
 

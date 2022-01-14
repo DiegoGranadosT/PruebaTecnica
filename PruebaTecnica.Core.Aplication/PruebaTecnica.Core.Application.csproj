@@ -19,7 +19,6 @@
 
 	<ItemGroup>
 	  <Folder Include="Contracts\" />
-	  <Folder Include="Features\Auth\Query\" />
 	  <Folder Include="Profiles\" />
 	  <Folder Include="Service\" />
 	</ItemGroup>

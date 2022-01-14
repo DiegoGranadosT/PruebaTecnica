@@ -58,8 +58,11 @@ C:\Users\diego\source\repos\PruebaTecnica\PruebaTecnica.IU.Api\obj\Debug\net6.0\
 C:\Users\diego\source\repos\PruebaTecnica\PruebaTecnica.IU.Api\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\diego\source\repos\PruebaTecnica\PruebaTecnica.IU.Api\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\diego\source\repos\PruebaTecnica\PruebaTecnica.IU.Api\obj\Debug\net6.0\scopedcss\bundle\PruebaTecnica.IU.Api.styles.css
-C:\Users\diego\source\repos\PruebaTecnica\PruebaTecnica.IU.Api\obj\Debug\net6.0\PruebaTecnica.IU.Api.csproj.CopyComplete
 C:\Users\diego\source\repos\PruebaTecnica\PruebaTecnica.IU.Api\obj\Debug\net6.0\PruebaTecnica.IU.Api.dll
 C:\Users\diego\source\repos\PruebaTecnica\PruebaTecnica.IU.Api\obj\Debug\net6.0\ref\PruebaTecnica.IU.Api.dll
 C:\Users\diego\source\repos\PruebaTecnica\PruebaTecnica.IU.Api\obj\Debug\net6.0\PruebaTecnica.IU.Api.pdb
 C:\Users\diego\source\repos\PruebaTecnica\PruebaTecnica.IU.Api\obj\Debug\net6.0\PruebaTecnica.IU.Api.genruntimeconfig.cache
+C:\Users\diego\source\repos\PruebaTecnica\PruebaTecnica.IU.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\diego\source\repos\PruebaTecnica\PruebaTecnica.IU.Api\bin\Debug\net6.0\Scrutor.dll
+C:\Users\diego\source\repos\PruebaTecnica\PruebaTecnica.IU.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\diego\source\repos\PruebaTecnica\PruebaTecnica.IU.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
